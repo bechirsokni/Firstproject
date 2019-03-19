@@ -11,7 +11,7 @@ public class Test {
 		File file = new File("C:/commande.txt");
 		FileInputStream input = null;
 		
-		OutputStream output = null;
+		//OutputStream output = null;
 		
 		 try {
 			 input = new FileInputStream(file);
